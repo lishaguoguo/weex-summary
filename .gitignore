@@ -1,0 +1,10 @@
+dist/*
+dist
+node_modules
+platforms
+.idea
+.idea/*
+temp
+temp/*
+
+
